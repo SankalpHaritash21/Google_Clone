@@ -7,3 +7,8 @@ This is a Google Chrome Clone created using React
 
 
 ![3](https://github.com/SankalpHaritash21/Google_Clone/assets/110713125/6833a39f-0e41-49bc-a3bb-e420882981fd)
+
+
+
+Live Link-
+https://google-clonexyz.netlify.app/
